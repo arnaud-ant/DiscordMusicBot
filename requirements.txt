@@ -1,0 +1,13 @@
+aiohttp==3.7.4.post0
+cffi==1.14.5
+multidict==6.0.2
+typing_extensions==4.1.1
+yarl==1.7.2
+chardet==4.0.0
+async-timeout==3.0.1
+pycparser==2.20
+idna==3.3
+discord.py==1.7.3
+ffmpeg==1.4
+PyNaCl==1.5.0
+youtube-dl==2021.12.17
