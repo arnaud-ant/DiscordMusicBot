@@ -1,4 +1,4 @@
-# discordMusicBot
+# A discord music bot
 
 ## Pré-requis
 
